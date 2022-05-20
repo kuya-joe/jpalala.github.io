@@ -4,35 +4,25 @@ title: About
 permalink: /about/
 ---
 
-## 关于作者
+## About me
 
 ### Specialties:
 
-* J2EE web programming development.
-* Flex/AS3 programming development.
-* HTML5/JS/CSS/SVG programming development.
-* Self-educated/Self-training.
+* PHP, JS, React,  HTML5/JS/CSS web programming development.
+* Some Angular experience
+* 
+### Hobbies
 
-### Hobby:
-
-* Riding mountain bike.
+* Researching latest way to make [Promises](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
 * Go travelling far away.
-* Watching science-fiction movies.
-* Learning English.
+* Learning Japanese and Korean
 
 ### Contact:
 
-* blog:[www.waylau.com](http://www.waylau.com)
-* gmail: [waylau521@gmail.com](mailto:waylau521@gmail.com)
-* weibo: [waylau521](http://weibo.com/waylau521)
-* twitter: [waylau521](https://twitter.com/waylau521)
-* csdn: [kkkloveyou](http://blog.csdn.net/kkkloveyou)
-* oschina: [waylau](http://my.oschina.net/waylau)
+* blog:[www.jpalala.io](http://www.jpalala.io)
+* email: `joe@palala.me`
 
 ### Open source:
 
-* Github : [waylau](https://github.com/waylau)
+* Github : [jpalala](https://github.com/jpalala)
 
-----
-
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/2117486514/c3e417d3/1.png)](http://weibo.com/u/2117486514?s=6uyXnP)

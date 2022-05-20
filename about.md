@@ -10,7 +10,7 @@ permalink: /about/
 
 * PHP, JS, React,  HTML5/JS/CSS web programming development.
 * Some Angular experience
-* 
+
 ### Hobbies
 
 * Researching latest way to make [Promises](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)

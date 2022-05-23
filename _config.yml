@@ -3,7 +3,7 @@ title: "Joe Palala's blog"
 name: "Joe's blog"
 url: "http://jpalala.github.io"
 email: jose.palala@live.com
-description: blog.jpalala.com
+description: Yet another developer blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username:  jpalala # Twitter ID
 github_username:  jpalala # Github ID

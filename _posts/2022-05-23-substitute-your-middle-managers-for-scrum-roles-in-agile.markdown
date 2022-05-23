@@ -1,5 +1,8 @@
-
-# Substitute your middle managers for Scrum roles in Agile Transformation
+---
+layout: post
+title: 'Substitute your middle managers for Scrum roles in Agile Transformation'
+date: '2022-05-23 09:35:01'
+---
 
 First, a little bit about myself. I used to just be a programmer - you know - write code, get the specs, write code, and go home. Later on in my career, I got the opportunity to be a quasi-leader. I have to
 relay and come up with designs and create prototyes to push to the dev (scrum) teams to use in the product. Then I started being active in the local Agile and Product communities and this how I became

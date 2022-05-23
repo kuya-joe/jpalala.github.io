@@ -4,15 +4,15 @@ title: Life snapshot Q1 2016
 date: '2016-03-15 06:54:47'
 ---
 
-##What I'm studying
+## What I'm studying
 
 - Figuring things out with front-end tools (ES6/Babel/React)
 - Checking out PHP7
+- Started writing a book on PHP7
 
-##Moments
+## Moments
 - Venice Piazza Mall is almost finished
-- Team building to Balagbag
-- Discovered Salad Lunches at Rustans Fresh Foods
-- Finally tried to swim again at the Gym
+- Team building to Balagbag + Sombrero Island. I thought I wouldn't enjoy but I did anyway.
+- Discovered Salad Lunches at Rustans Fresh Foods at the nearby mall
+- Finally tried to swim again at the Fitness First Gym
 
-[...]

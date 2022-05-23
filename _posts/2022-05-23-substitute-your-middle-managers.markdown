@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Substitute your middle managers for Scrum roles
+categories: management, agile, nontech
 date: '2022-05-23 09:35:01'
 ---
 

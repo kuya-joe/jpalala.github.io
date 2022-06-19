@@ -8,13 +8,16 @@
       <span aria-hidden="true"></span>
     </a>
   </div>
-  <div class="nav-right">
-    {% for page in site.pages %}
-    {% if page.title %}
-    {% if page.excludedFromNav != true %}
-    <a class="navbar-item" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+  
+  <div id="main-nav" class="navbar-menu">
+      <div class="navbar-end">
+      {% for page in site.pages %}
+      {% if page.title %}
+      {% if page.excludedFromNav != true %}
+      <a class="navbar-item" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </nav>

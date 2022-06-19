@@ -3,6 +3,7 @@ layout: post
 title: 'Substitute your middle managers for scrum roles'
 categories: management, agile, nontech
 date: '2022-05-22 09:35:01'
+comments: true
 ---
 
 
@@ -12,6 +13,6 @@ In a lot of large big enterprise companies, middle managers are there to help th
 
 In my experience with companies doing agile transformation, it's usually these people that feel a bit out-of-place. It's because they have no direct control on the people who are running the show, and are like peacekeepers and firefighters (I mean this metaphorically) when issues come up. They can be proactive at times, but it can sometimes cause some friction.
 
-The LESS framework gives us an idea as to how one can deal with this - simply shift them to a role such as Product Owner, Business Analyst, or even fancier, Product Manager!
+I like the [Agnostic Agile](https://www.agnosticagile.org/) way, and advocate just embracing the fundamentals agile principles.  It's similar to the awesome [LESS framework](https://less.works/less/framework) gives us an idea as to how one can deal with this - simply shift them to a role where they can do more valuable things for the org for example as a Product Owner, Business Analyst or Product Manager! With this, they can be more aligned with the agile transition.
 
 Thank you and have a wonderful day!

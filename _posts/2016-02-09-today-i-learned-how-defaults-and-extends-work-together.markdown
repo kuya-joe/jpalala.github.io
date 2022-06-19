@@ -2,6 +2,7 @@
 layout: post
 title: "today i learned how _.defaults and _.extends work together"
 date: "2016-02-09 06:44:32"
+comments: true
 ---
 
 So today I just discovered the `_.extends` function of underscore. There's a little known function that is similar, called `_.extendsOwn`. This basically is the underscore version for the upcoming 'Object.assign' method of ES6.

@@ -2,6 +2,7 @@
 layout: post
 title: Learning magit
 date: '2016-03-18 11:02:36'
+comments: true
 ---
 
 I attended a recent Javascript meetup where [Zak](https://twitter.com/zakame) showed us the power of using [emacs](https://www.gnu.org/software/emacs/) for javascript.
